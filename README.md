@@ -1,3 +1,3 @@
 # liuzhou-ui
 ui department project
-commit
+git clone https://github.com/LittleDragonX/liuzhou-ui.git
