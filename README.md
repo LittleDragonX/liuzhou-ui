@@ -21,3 +21,6 @@ git教学
 创建并切换分支: git checkout -b dev
 等于:git branch dev , git checkout dev
 查看分支: git branch
+返回master分支: git checkout master
+合并dev分支: git merge dev
+删除dev分支: git branch -d dev
