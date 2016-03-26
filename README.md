@@ -24,3 +24,4 @@ git教学
 返回master分支: git checkout master
 合并dev分支: git merge dev
 删除dev分支: git branch -d dev
+分支冲突: 改变文件后 add commit 
