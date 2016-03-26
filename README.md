@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git教学
 初始化仓库: git init
 把文件添加到仓库: git add readme.txt
