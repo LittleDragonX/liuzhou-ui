@@ -17,3 +17,7 @@ git教学
 本地仓库与远程仓库关联: git remote add origin git@github.com:LittleDragonX/liuzhou-ui.git
 本地库的内容推送到远程仓库: git push -u origin master
 从现在起，只要本体作了提交，就可以推送到远程仓库: git push origin master
+从远程库克隆本地库: git clone git@github.com:LittleDragonX/liuzhou-ui.git
+创建并切换分支: git checkout -b dev
+等于:git branch dev , git checkout dev
+查看分支: git branch
