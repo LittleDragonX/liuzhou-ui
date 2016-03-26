@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 git教学
 初始化仓库: git init
 把文件添加到仓库: git add readme.txt
@@ -12,3 +11,6 @@ git教学
 回退到上100个版本: git reset --hard HEAD~100
 指定到某个版本: git reset --hard d257e868
 每一次命令查询: git reflog
+查看工作区和版本库里面最新版本的区别: git diff HEAD -- readme.md
+删除文件: git rm README.md
+版本库里的版本替换工作区的版本，无论是修改还是删除: git checkout -- README.md
