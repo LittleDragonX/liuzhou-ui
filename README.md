@@ -14,3 +14,6 @@ git教学
 查看工作区和版本库里面最新版本的区别: git diff HEAD -- readme.md
 删除文件: git rm README.md
 版本库里的版本替换工作区的版本，无论是修改还是删除: git checkout -- README.md
+本地仓库与远程仓库关联: git remote add origin git@github.com:LittleDragonX/liuzhou-ui.git
+本地库的内容推送到远程仓库: git push -u origin master
+从现在起，只要本体作了提交，就可以推送到远程仓库: git push origin master
